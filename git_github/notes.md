@@ -6,7 +6,18 @@ Il se base sur les concepts suivants.
 - Index: Liste des fichiers dont les modifications sont suivies par git.
 - Commit: Engagement sur des modifications AVEC OBLIGATOIREMENT UN MESSAGE.
 
-   
+    azdza daz
+
+
+
+
+    daz
+    dzad zad 
+    zad
+    a
+
+
+
 ### Utilisation Git
 1. taper `git init` dans un terminal, à la racine du dossier que l'on veut suivre 
 2. taper `git add <filename>` ajoute un fichier / dossier à l'index de git
