@@ -25,3 +25,9 @@ Application web permettant de voir et favoriser la collaboration autour de code 
 
 Il se base sur des concepts:
 - Répertoire : Dossier hébergeant le code source d'un projet
+- Remote : Adresse git de votre répertoire distant
+
+
+### Utilisation Github
+0. taper `git remote add <remotename> <url>` pour ajouter une remote (adresse d'un répertoire distant)
+1. taper `git init` dans un terminal, à la racine du dossier que l'on veut suivre 
