@@ -26,8 +26,14 @@ Application web permettant de voir et favoriser la collaboration autour de code 
 Il se base sur des concepts:
 - Répertoire : Dossier hébergeant le code source d'un projet
 - Remote : Adresse git de votre répertoire distant
+- Pull Request : Façon de merger une branche dans une autre avec Github
 
 
 ### Utilisation Github
 0. taper `git remote add <remotename> <url>` pour ajouter une remote (adresse d'un répertoire distant)
-1. taper `git init` dans un terminal, à la racine du dossier que l'on veut suivre 
+1. taper `git push <remotename> <branchname>` pour envoyer les COMMITS sur le répertoire distant
+2. taper `git clone <url>` pour cloner le répertoire venant de github
+
+## Git flow
+Lisez les bonnes pratiques mais n'utilisez pas l'outil
+[https://fr.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow](https://fr.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
