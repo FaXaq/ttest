@@ -16,3 +16,4 @@ Il se base sur les concepts suivants.
 6. taper `git branch` pour lister les branches
 7. taper `git checkout <branchname>` pour basculer sur la branche
 8. taper `git merge <branchname>` pour fusionner la branchname avec la branche sur laquelle on est
+9. COUCOU
