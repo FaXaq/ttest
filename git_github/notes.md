@@ -18,3 +18,10 @@ Il se base sur les concepts suivants.
 7. taper `git checkout <branchname>` pour basculer sur la branche
 8. taper `git merge <branchname>` pour fusionner la branchname avec la branche sur laquelle on est
 9. COUCOU
+
+
+## Github
+Application web permettant de voir et favoriser la collaboration autour de code sources gérées par Git.
+
+Il se base sur des concepts:
+- Répertoire : Dossier hébergeant le code source d'un projet
