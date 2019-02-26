@@ -8,6 +8,7 @@ Il se base sur les concepts suivants.
 - Branch: Label de catégorie pour un commit
 
 ### Utilisation Git
+0. taper `git status` pour connaitre l'état de l'index dans le répertoire git courant
 1. taper `git init` dans un terminal, à la racine du dossier que l'on veut suivre 
 2. taper `git add <filename>` ajoute un fichier / dossier à l'index de git
 3. taper `git rm <filename>` enlève un fichier / dossier à l'index de git
